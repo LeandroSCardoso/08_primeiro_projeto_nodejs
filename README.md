@@ -1,1 +1,10 @@
-# primeiro_projeto_nodejs
+# PRIMEIRO PROJETO NODEJS
+
+# Linguagem
+- javascript
+
+#Utilizado
+-NodeJs
+-NPM
+-Jest
+
