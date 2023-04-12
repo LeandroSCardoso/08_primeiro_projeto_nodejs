@@ -4,7 +4,7 @@
 - javascript
 
 #Utilizado
--NodeJs
--NPM
--Jest
+- NodeJs
+- NPM
+- Jest
 
